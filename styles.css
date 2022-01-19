@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+
+}
+
+h3 {
+    margin: 20%;
+}
+
+h1 {
+    font-size: 10rem;
+    text-align: center;
+}
+
+.dhaka {
+    background: url('https://images.unsplash.com/photo-1618700997914-1a62d43cda70?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80') repeat fixed 100%;
+    background-size: cover;
+    color: white;
+}
+
+.sylhet {
+    background: url('https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80') repeat fixed 100%;
+    background-size: cover;
+    color: white;
+}
+
+.coxsbazar {
+    background: url('https://images.unsplash.com/photo-1587222318667-31212ce2828d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80') repeat fixed 100%;
+    background-size: cover;
+    color: white;
+}
+
+.sundarban {
+    background: url('https://images.unsplash.com/photo-1613675230775-d5e5d8f46d35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80') repeat fixed 100%;
+    background-size: cover;
+    color: white;
+}
+
+.parallax-inner{
+    padding: 20%;
+}
